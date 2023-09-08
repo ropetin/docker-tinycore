@@ -14,6 +14,8 @@ x86/x86\_64 packages
 
 These original packages are found under
 
+ - http://tinycorelinux.net/14.x/
+ - http://tinycorelinux.net/13.x/
  - http://tinycorelinux.net/12.x/
  - http://tinycorelinux.net/11.x/
  - http://tinycorelinux.net/10.x/
@@ -24,6 +26,10 @@ These original packages are found under
 
 and Dockerfile of these images are found at
 
+- [`14.0-x86`, `latest` (14.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/14.0/x86/Dockerfile)
+- [`14.0-x86_64` (14.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/14.0/x86_64/Dockerfile)
+- [`13.0-x86`, `latest` (13.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/13.0/x86/Dockerfile)
+- [`13.0-x86_64` (13.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/13.0/x86_64/Dockerfile)
 - [`12.0-x86`, `latest` (12.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/12.0/x86/Dockerfile)
 - [`12.0-x86_64` (12.0/x86\_64/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/12.0/x86_64/Dockerfile)
 - [`11.0-x86`, `latest` (11.0/x86/Dockerfile)](https://github.com/bensuperpc/docker-tinycore/blob/master/11.0/x86/Dockerfile)
